@@ -1,0 +1,2 @@
+1)Write a verilog program to model a 4 bit ripple carryadder. Generate the VVP output and simulation waveform using GTKWave.
+2)Design a digital system that adds two decimal digits represented in BCD format and output results in BCD. Explain the need for correction in result and implement inverilog.What should be verified in simulation?
