@@ -1,0 +1,65 @@
+$date
+	Mon Sep 01 16:39:13 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module TB $end
+$var wire 1 ! VALID $end
+$var wire 2 " Y [1:0] $end
+$var reg 4 # D [3:0] $end
+$var reg 1 $ EN $end
+$scope module newENC $end
+$var wire 4 % d [3:0] $end
+$var wire 1 & en $end
+$var wire 1 ! valid $end
+$var wire 2 ' y [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 '
+0&
+b0 %
+0$
+b0 #
+b0 "
+0!
+$end
+#5
+1$
+1&
+#10
+1!
+b1 #
+b1 %
+#15
+b1 "
+b1 '
+1!
+b10 #
+b10 %
+#20
+1!
+b10 "
+b10 '
+b100 #
+b100 %
+#25
+b11 "
+b11 '
+b1000 #
+b1000 %
+#30
+b0 "
+b0 '
+0!
+b1010 #
+b1010 %
+0$
+0&
+#35
